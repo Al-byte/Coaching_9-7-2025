@@ -270,6 +270,10 @@ h1, h2, h4 {
         color: rgb(255, 252, 252);
     }
 
+    .modal-title {
+        font-weight: bold;
+    }
+
     footer {
         background-color: rgb(220, 220, 220);
     }
